@@ -9,7 +9,7 @@ var elRandomWrapper = document.querySelector('.random-number');
 var elEnteredNumbers = document.querySelector('.entered-numbers');
 var elGlobalDiv = document.querySelector('.global');
 
-console.log(randomCompNumber);
+// console.log(randomCompNumber);
 
 if (elFindForm) {
   elFindForm.addEventListener('submit', function(evt) {
